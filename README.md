@@ -42,3 +42,13 @@ npm run storybook
 
 Storybook runs by default on <http://localhost:6006/>
 
+---
+
+# Contribute
+
+We welcome contributions in our community.<br>
+Before contributing,see <a href="https://github.com/xerocodee/ui-library/blob/main/CONTRIBUTING.md">Contribution guide</a> for more information.
+
+# License
+
+This Community is <a href="https://github.com/xerocodee/ui-library/blob/master/LICENSE">Licensed</a> under Mozilla Public License Version 2.0
